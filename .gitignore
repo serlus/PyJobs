@@ -216,3 +216,6 @@ ENV/
 
 # Postgres Docker container data directory
 db/
+
+# VSCode config
+.vscode

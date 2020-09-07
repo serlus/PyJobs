@@ -52,3 +52,4 @@ Ao tentar utilizar o formulário sem configurar os dados do RECAPTCHA o servidor
 #### Erro ao enviar algum e-mail.
 
 Possivelmente, se você tiver exportado a variável de ambiente do SENDGRID com as API keys inválidas, você muito provavelmente terá algum erro. Para evitar isso, utilize o backend padrão do Django para envios de e-mails, assim eles aparecerão no terminal.
+
